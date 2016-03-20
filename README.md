@@ -1,6 +1,7 @@
 # Sqlalchemy
 
 To execute the webserver
+
   1) Download https://www.vagrantup.com/downloads.html
   
   2) copy webserver.py to /fullstack/vagrant
